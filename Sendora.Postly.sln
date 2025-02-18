@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sendora.Postly.Service", "Sendora.Postly.Service\Sendora.Postly.Service.csproj", "{D66F0034-1DAA-4077-8D30-15116F538978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sendora.Postly.Domain", "Sendora.Postly.Domain\Sendora.Postly.Domain.csproj", "{16840AE7-F60C-484C-8B06-6B85D30A625E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sendora.Postly.Infrastructure", "Sendora.Postly.Infrastructure\Sendora.Postly.Infrastructure.csproj", "{D8DA205C-A688-4DA4-A10E-B02A352117E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D66F0034-1DAA-4077-8D30-15116F538978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66F0034-1DAA-4077-8D30-15116F538978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66F0034-1DAA-4077-8D30-15116F538978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66F0034-1DAA-4077-8D30-15116F538978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16840AE7-F60C-484C-8B06-6B85D30A625E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16840AE7-F60C-484C-8B06-6B85D30A625E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16840AE7-F60C-484C-8B06-6B85D30A625E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16840AE7-F60C-484C-8B06-6B85D30A625E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8DA205C-A688-4DA4-A10E-B02A352117E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DA205C-A688-4DA4-A10E-B02A352117E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DA205C-A688-4DA4-A10E-B02A352117E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DA205C-A688-4DA4-A10E-B02A352117E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
