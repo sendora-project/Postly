@@ -10,8 +10,4 @@
       <PackageReference Include="MailKit" Version="4.10.0" />
     </ItemGroup>
 
-    <ItemGroup>
-      <ProjectReference Include="..\Sendora.Postly.Infrastructure\Sendora.Postly.Infrastructure.csproj" />
-    </ItemGroup>
-
 </Project>

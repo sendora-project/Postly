@@ -1,4 +1,4 @@
-﻿namespace Sendora.Domain.Enums;
+﻿namespace Sendora.Postly.Domain.Enums;
 
 public enum ProtocolType
 {

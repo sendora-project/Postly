@@ -1,11 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Concurrent;
-using Sendora.Domain.Objects;
 using MailKit;
 using MailKit.Net.Imap;
 using MailKit.Search;
 using MimeKit;
-using Sendora.Domain;
+using Sendora.Postly.Domain;
+using Sendora.Postly.Domain.Args;
 
 namespace Sendora.Service;
 

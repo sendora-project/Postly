@@ -1,6 +1,4 @@
-﻿using Sendora.Core.Misc;
-
-namespace Sendora.Domain.Objects;
+﻿namespace Sendora.Postly.Domain.Models;
 
 public class MailHostConfig
 {

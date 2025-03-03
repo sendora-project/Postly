@@ -13,6 +13,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Sendora.Postly.Domain\Sendora.Postly.Domain.csproj" />
+      <ProjectReference Include="..\Sendora.Postly.Infrastructure\Sendora.Postly.Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>

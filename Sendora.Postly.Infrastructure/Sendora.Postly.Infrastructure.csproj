@@ -17,4 +17,8 @@
       <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.2" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Sendora.Postly.Domain\Sendora.Postly.Domain.csproj" />
+    </ItemGroup>
+
 </Project>

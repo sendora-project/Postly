@@ -19,4 +19,14 @@ public class HashUtils
         
         return hexString.ToString();
     }
+    
+    public static string HashMail(string subject, DateTime date)
+    {
+        return HashString(subject + "|" + date);
+    }
+    
+    public static string HashAddress(string address, string subject, DateTime date)
+    {
+        return HashString(address + "|" + subject + "|" + date);
+    }
 }

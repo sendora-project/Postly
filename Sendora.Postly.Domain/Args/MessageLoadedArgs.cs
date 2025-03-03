@@ -1,7 +1,7 @@
 ﻿using MailKit;
 using MimeKit;
 
-namespace Sendora.Domain;
+namespace Sendora.Postly.Domain.Args;
 
 public class MessageLoadedArgs : EventArgs
 {
